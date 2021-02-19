@@ -2,7 +2,7 @@
 '''
 * @FileName : Overfitting.py
 * @Author : Tanmaiy Reddy Arikatla
-* @Brief : MOdel to remove overfitting .
+* @Brief : Model to remove overfitting .
 * @Date : 25 Nov 2020
 *
 * Copyright (C) 2020
