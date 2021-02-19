@@ -1,4 +1,13 @@
 #%%
+'''
+* @FileName : Bank_model.py
+* @Author : Tanmaiy Reddy Arikatla
+* @Brief : ml model to predict if a person will be able to clear his loan or not.
+* @Date : 24 Nov 2020
+*
+* Copyright (C) 2020
+'''
+#%%
 import pandas as pd
 import numpy as np
 import sys, time, os
@@ -121,11 +130,11 @@ print("-------------------------------------------------------------------------
 #%%
 #value=[[61,0,6610,0,0,24,1,481,-1,0,2]]
 value=[[44,0,1844,0,0,13,6,1018,-1,0,2]]
-survival = sc.transform(value)
+data = sc.transform(value)
 
 #%%
 #using Logistic Regeression to predict
-pred = model.predict(survival)
+pred = model.predict(data)
 print("The output for the data '{}' is :\n".format(value))
 #%%
 if pred==0:

@@ -1,4 +1,13 @@
 #%%
+'''
+* @FileName : IPL_Model.py
+* @Author : Tanmaiy Reddy Arikatla
+* @Brief : Given details of ipl teams and players to predict the total runs they scored .
+* @Date : 17 FEB 2021
+*
+* Copyright (C) 2021
+'''
+#%%
 # Importing Libraries 
 
 import pandas as pd

@@ -1,3 +1,12 @@
+#%%
+'''
+* @FileName : Overfitting.py
+* @Author : Tanmaiy Reddy Arikatla
+* @Brief : MOdel to remove overfitting .
+* @Date : 25 Nov 2020
+*
+* Copyright (C) 2020
+'''
 # %% Importing Modules
 import pandas as pd
 import numpy as np
@@ -88,7 +97,3 @@ result=dict
 print("To get the result of the test data set please remove the '#' from the above for loop")
 #for i in range(len(id)):
 #    print(id[i],test_pred[i])
-
-#%%
-
-# %%

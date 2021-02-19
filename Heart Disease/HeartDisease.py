@@ -1,11 +1,11 @@
 #%%
 '''
-* @FileName : IPL_model.py
+* @FileName : HeartDisease.py
 * @Author : Tanmaiy Reddy Arikatla
-* @Brief : Given details of ipl teams and players predict the total points they scored on the basis of runs, balls,wickets
-* @Date : 19 Feb 2021
+* @Brief : To predict if a person has heart disease or not.
+* @Date : 1 DEC 2020
 *
-* Copyright (C) 2021
+* Copyright (C) 2020
 '''
 #%% 
 # Importing Libraries
