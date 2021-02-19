@@ -2,7 +2,7 @@
 '''
 * @FileName : HeartDisease.py
 * @Author : Tanmaiy Reddy Arikatla
-* @Brief : To predict if a person has heart disease or not.
+* @Brief : To predict if a person is suffering with as heart disease or not.
 * @Date : 1 DEC 2020
 *
 * Copyright (C) 2020
