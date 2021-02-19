@@ -2,7 +2,7 @@
 '''
 * @FileName : Bank_model.py
 * @Author : Tanmaiy Reddy Arikatla
-* @Brief : ml model to predict if a person will be able to clear his loan or not.
+* @Brief : Ml model to predict if a person will be able to clear his loan or not.
 * @Date : 24 Nov 2020
 *
 * Copyright (C) 2020
