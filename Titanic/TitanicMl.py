@@ -3,7 +3,7 @@
 * @FileName : TitanicML.py
 * @Author : Tanmaiy Reddy Arikatla
 * @Brief : To predict if a person will survive if he travles on TITANIC II and it sinks.
-* @Date : 25 DEC 2020
+* @Date : 18 DEC 2020
 *
 * Copyright (C) 2020
 '''
